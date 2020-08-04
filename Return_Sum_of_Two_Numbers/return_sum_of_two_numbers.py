@@ -1,4 +1,4 @@
-""" 
+"""
 Challenge: Create a function that takes two numbers as arguments and return their sum.
 Difficulty: Very Easy
 
@@ -12,4 +12,4 @@ Author: @joshrutkowski
 
 
 def addition(a, b):
-    pass  # Your code here
+    return(a + b)
