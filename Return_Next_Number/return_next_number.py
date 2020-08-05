@@ -12,4 +12,4 @@ Author: @joshrutkowski
 
 
 def addition(num):
-    pass # Your code here
+    return (int(num) + 1)
