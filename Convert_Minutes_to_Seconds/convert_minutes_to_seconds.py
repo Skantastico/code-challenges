@@ -12,4 +12,4 @@ Author: @joshrutkowski
 
 
 def convert(minutes):
-    pass # Your code here
+    return(int(minutes * 60))
