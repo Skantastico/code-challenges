@@ -13,4 +13,11 @@ Author: @joshrutkowski
 
 
 def alphabet_soup(text):
-    pass # Your code here
+        for i in text:
+            return ''.join(sorted(text))
+
+
+# Testing
+print(alphabet_soup('aardvark'))
+print(alphabet_soup('TheEndIsNear'))
+print(alphabet_soup('thequickbrownfoxjumpedoverthelazydog'))
